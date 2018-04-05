@@ -1,0 +1,1 @@
+<h1>Bonjour <small><?php echo $pseudo; ?></small></h1>
